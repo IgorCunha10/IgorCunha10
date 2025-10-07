@@ -4,7 +4,7 @@
 
 Olá, seja muito bem vindo à minha página no Github. É uma honra receber você. :wave:
 
-Me chamo Igor Cunha, tenho 19 anos, moro em Brasília, Brasil e atualmente estudo Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. 
+Me chamo Igor Cunha, tenho 22 anos, moro em Brasília, Brasil e atualmente estudo Ciência da Computação na Universidade do Distrito Federal - UnDF. 
 
 ### Objetivos
 
@@ -20,7 +20,7 @@ Você pode acessar meus projetos aqui mesmo na minha página do Github.
 ### About me
 Hi, welcome to my Github page. It's an honor to welcome you. :wave:
 
-My name is Igor Cunha, I'm 19 years old, I live in Brasília, Brazil and I'm currently studying Systems Analysis and Development at Universidade Estácio de Sá.
+My name is Igor Cunha, I'm 22 years old, I live in Brasília, Brazil and I'm currently studying Computer Science at Universidade do Distrito Federal - UnDF.
 
 ### Goals
 My main goals are currently mastering the technologies used in Web Development, focusing on Frontend. Study through official documentation, university curriculum and internet projects. I'm looking to learn more about this incredible universe of technology and that's why I'm constantly studying.
