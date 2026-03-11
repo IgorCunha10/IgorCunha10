@@ -13,7 +13,7 @@ grade curricular da universidade e projetos da internet. Busco aprender mais sob
 
 ###Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,android,androidstudio,figma,xml&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,intellij,androidstudio,git,githubfigma,xml&theme=light)](https://skillicons.dev)
 
 
 ### Projetos
