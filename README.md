@@ -30,6 +30,10 @@ My name is Igor Cunha, I'm 22 years old, I live in Brasília - Brazil and I'm cu
 ### Goals
 My main goals are currently mastering the technologies used in Android Development, focusing on Java. Study through official documentation, university curriculum and internet projects. I'm looking to learn more about this incredible universe of technology and that's why I'm constantly studying.
 
+###Skills 
+
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,git,github,figma&theme=light)](https://skillicons.dev)
+
 ### Projects
 You can access my projects right here on my Github page.
 
