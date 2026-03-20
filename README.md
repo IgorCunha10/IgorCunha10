@@ -13,7 +13,7 @@ grade curricular da universidade e projetos da internet. Busco aprender mais sob
 
 ### Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,git,github,figma,xml&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,figma,xml&theme=light)](https://skillicons.dev)
 
 
 ### Projetos
@@ -32,7 +32,7 @@ My main goals are currently mastering the technologies used in Android Developme
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,git,github,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,figma&theme=light)](https://skillicons.dev)
 
 ### Projects
 You can access my projects right here on my Github page.
