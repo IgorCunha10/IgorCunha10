@@ -8,7 +8,7 @@ Me chamo Igor Cunha, tenho 23 anos, moro em Brasília - Brasil e atualmente estu
 
 ### Objetivos
 
-Meus principais objetivos atualmente são masterizar as tecnologias utilizadas no Desenvolvimento Android com foco em Java. Estudo através de documentações oficiais,
+Meus principais objetivos atualmente são masterizar as tecnologias utilizadas no Desenvolvimento Android com foco em Java e Kotlin utilizando Jetpack Compose. Estudo através de documentações oficiais,
 grade curricular da universidade e projetos da internet. Busco aprender mais sobre esse universo incrível da tecnologia e por isso estou estudando constantemente.
 
 ### Habilidades
@@ -28,7 +28,7 @@ Hi, welcome to my Github page. It's an honor to welcome you. :wave:
 My name is Igor Cunha, I'm 23 years old, I live in Brasília - Brazil and I'm currently studying Computer Science at Universidade do Distrito Federal - UnDF.
 
 ### Goals
-My main goals are currently mastering the technologies used in Android Development focusing on Java. Study through official documentation, university curriculum and internet projects. I'm looking to learn more about this incredible universe of technology and that's why I'm constantly studying.
+My main goals are currently mastering the technologies used in Android Development focusing on Java and Kotlin using Jetpack Compose. Study through official documentation, university curriculum and internet projects. I'm looking to learn more about this incredible universe of technology and that's why I'm constantly studying.
 
 ### Skills 
 
