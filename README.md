@@ -12,7 +12,7 @@ Meu principal objetivo atualmente é dominar as tecnologias utilizadas no Desenv
 
 ### Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,figma,xml&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,git,github,figma,xml&theme=light)](https://skillicons.dev)
 
 
 ### Projetos
@@ -31,7 +31,7 @@ My main goals are currently mastering the technologies used in Android Developme
 
 ### Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,git,github,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,kotlin,androidstudio,git,github,figma&theme=light)](https://skillicons.dev)
 
 ### Projects
 You can access my projects right here on my Github page.
